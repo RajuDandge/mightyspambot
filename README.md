@@ -1,0 +1,2 @@
+# mightyspambot
+Spambots
